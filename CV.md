@@ -4,6 +4,6 @@ title: CV
 layout: default
 ---
 
-## Curriculum Vitae
+### Curriculum Vitae
 
 Under construction
