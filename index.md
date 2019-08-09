@@ -10,7 +10,7 @@ My name is Arjan, nice to meet you. This website is my personal page. In time it
 
 ## Who am I?
 
-I'm a statistician (MSc. Statistics and Methodology) currently working for TNO at the department of Child Health. I also consider myself a social scientist in the broadest sense of the word. I hold a bachelor in Interdisciplinary Social Sciences, and many of my interests in statistics coincide with my interests in social and medical sciences. Those interests include Bayesian statistics, missing data theory, causal effects and N = 1 models.
+I'm a statistician (MSc. Statistics and Methodology) currently working for TNO at the department of Child Health. I also consider myself a social scientist in the broadest sense of the word. I additionally hold a bachelor in Interdisciplinary Social Sciences, and many of my interests in statistics coincide with those in social and medical sciences. These include Bayesian statistics, missing data theory, causal effects and N = 1 models. I am not just interested in the statistical techniques involved, but also in sound implementation for these applied fields. 
 
 I'm also somewhat of a programmer. I started out learning `R` for statistics, and I'm proficient with `R`, `Rmarkdown` and `tidyverse`. I have since branched out to other languages such as `C++` and `JavaScript`. I'm still a complete beginner at these, but programming is something that really excites me. One of my ambitions is to develop a package for `R` (one day!).
 
